@@ -44,10 +44,10 @@ pip install pandas pyodbc premailer beautifulsoup4
 ```
 project/
 │
-├── email_sender.py                # Main script
-├── email_receiver.xlsx            # Excel mapping: Username & Email
-├── email header.png               # Header image for email
-├── footer email.png               # Footer image for email
+├── ssms_to_email_rev_report_sp_v3.py      # Main script
+├── email_receiver.xlsx                    # Excel mapping: Username & Email
+├── email header.png                       # Header image for email
+├── footer email.png                       # Footer image for email
 ```
 
 ---
